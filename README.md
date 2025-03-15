@@ -6,7 +6,7 @@ This work was supported in part by the National Science Foundation through grant
 
 https://rdpackages.github.io/replication
 
-## Empirical Application: Incumbency Curse Data 
+## Empirical Application: Ser Pilo Paga 
 
 - Source: Londono-Velez, Rodriguez and Sanchez (2020): [Upstream and Downstream Impacts of College Merit-Based Financial Aid for Low-Income Students: Ser Pilo Paga in Colombia](https://doi.org/10.1257/pol.20180131), _American Economic Journal: Economic Policy_ 12 (2): 193-227.
 
