@@ -10,9 +10,9 @@ https://rdpackages.github.io/replication
 
 - Source: Londono-Velez, Rodriguez and Sanchez (2020): [Upstream and Downstream Impacts of College Merit-Based Financial Aid for Low-Income Students: Ser Pilo Paga in Colombia](https://doi.org/10.1257/pol.20180131), _American Economic Journal: Economic Policy_ 12 (2): 193-227.
 
-- Dataset: [csv](spp.csv) | [dta](spp.dta)
+- Dataset: [csv](spp.csv)
 
-- R implementation: [main](CTY_2025_wp.R)
+- R implementation: [empirical application](CTY_2025_wp--empapp.R) | [simulations](CTY_2025_wp--simuls.R) | [post analysis](CTY_2025_wp--post.R)
 
 
 ## Reference
